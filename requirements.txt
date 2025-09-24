@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+langchain-groq
+pdfplumber
+pytest
+tabulate
